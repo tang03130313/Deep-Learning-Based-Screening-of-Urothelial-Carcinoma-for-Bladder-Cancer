@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<annotation>
+  <age>0</age>
+  <filename>ImageName_ai_s_t1Q4iBMsrwO90u8_f.jpg</filename>
+  <folder>undefined</folder>
+  <object>
+    <bndbox>
+      <xmax>538</xmax>
+      <xmin>486</xmin>
+      <ymax>537</ymax>
+      <ymin>488</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>1_3</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <path>undefined</path>
+  <segmented>0</segmented>
+  <size>
+    <depth>0</depth>
+    <height>49</height>
+    <width>53</width>
+  </size>
+  <source>
+    <database>unknown</database>
+  </source>
+  <map>
+    <xmin>12364</xmin>
+    <xmax>12417</xmax>
+    <ymin>14058</ymin>
+    <ymax>14107</ymax>
+  </map>
+</annotation>

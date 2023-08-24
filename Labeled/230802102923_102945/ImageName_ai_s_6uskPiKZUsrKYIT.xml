@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<annotation>
+  <age>0</age>
+  <filename>ImageName_ai_s_6uskPiKZUsrKYIT_f.jpg</filename>
+  <folder>undefined</folder>
+  <object>
+    <bndbox>
+      <xmax>535</xmax>
+      <xmin>489</xmin>
+      <ymax>541</ymax>
+      <ymin>483</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>1_3</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <path>undefined</path>
+  <segmented>0</segmented>
+  <size>
+    <depth>0</depth>
+    <height>59</height>
+    <width>45</width>
+  </size>
+  <source>
+    <database>unknown</database>
+  </source>
+  <map>
+    <xmin>27220</xmin>
+    <xmax>27309</xmax>
+    <ymin>18205</ymin>
+    <ymax>18323</ymax>
+  </map>
+</annotation>

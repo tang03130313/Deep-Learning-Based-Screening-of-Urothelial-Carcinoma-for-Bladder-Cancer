@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<annotation>
+  <age>0</age>
+  <filename>ImageName_ai_s_N0QvXTSGCG1cu17_f.jpg</filename>
+  <folder>undefined</folder>
+  <object>
+    <bndbox>
+      <xmax>547</xmax>
+      <xmin>477</xmin>
+      <ymax>554</ymax>
+      <ymin>470</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>1_3</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <path>undefined</path>
+  <segmented>0</segmented>
+  <size>
+    <depth>0</depth>
+    <height>83</height>
+    <width>70</width>
+  </size>
+  <source>
+    <database>unknown</database>
+  </source>
+  <map>
+    <xmin>18740</xmin>
+    <xmax>18810</xmax>
+    <ymin>5401</ymin>
+    <ymax>5485</ymax>
+  </map>
+</annotation>
